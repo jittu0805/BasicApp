@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="TableA" language="en" table="x_62512_basicapp_tablea">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>TableA</label>
+            <language>en</language>
+            <name>x_62512_basicapp_tablea</name>
+            <plural>TableAs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-08 11:33:45</sys_created_on>
+            <sys_id>28f02e5c4f301300b1877e918110c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TableA</sys_name>
+            <sys_package display_value="BasicApp" source="x_62512_basicapp">7c3a42504f301300b1877e918110c7b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BasicApp">7c3a42504f301300b1877e918110c7b4</sys_scope>
+            <sys_update_name>sys_documentation_x_62512_basicapp_tablea__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-08 11:33:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
